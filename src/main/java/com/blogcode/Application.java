@@ -1,3 +1,4 @@
+import org.junit.Test;
 package com.blogcode;
 
 import org.springframework.boot.SpringApplication;
