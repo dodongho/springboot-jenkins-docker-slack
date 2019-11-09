@@ -1,4 +1,5 @@
 import org.junit.Test;
+import org.junit.runner.RunWith;
 package com.blogcode;
 
 import org.springframework.boot.SpringApplication;
